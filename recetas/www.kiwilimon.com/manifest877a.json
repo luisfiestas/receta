@@ -1,0 +1,21 @@
+{
+  "short_name": "Kiwilimon",
+  "name": "Recetas Kiwilimon",
+  "icons": [
+      {
+          "src": "/android-chrome-192x192.png?v=3eKqWJpgNM",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "/android-chrome-512x512.png?v=3eKqWJpgNM",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#8CC63E",
+  "background_color": "#FFFFFF"
+}
